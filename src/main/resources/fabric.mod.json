@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "youcantdamageme",
+  "version": "${version}",
+  "name": "You can't damage me!",
+  "description": "Simple mod adding gamerule allowing to disable all* damage",
+  "authors": ["Patbox"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/youcantdamageme/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "eu.pb4.youcantdamageme.client.YouCantDamageMeClient"
+    ],
+    "main": [
+      "eu.pb4.youcantdamageme.YouCantDamageMe"
+    ]
+  },
+  "mixins": [
+    "YouCantDamageMe.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.8",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  }
+}

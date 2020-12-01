@@ -1,0 +1,1 @@
+This mod adds allows to disable all damage given to player (with exception to void/kill command) with use of one gamerule.
