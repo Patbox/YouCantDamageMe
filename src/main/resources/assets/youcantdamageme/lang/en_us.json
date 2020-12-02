@@ -1,3 +1,7 @@
 {
-  "gamerule.playerDamage": "Player takes damage"
+  "gamerule.playerDamage": "Player takes damage",
+  "gamerule.entityAttackDamage": "Allows entities to damage player",
+  "gamerule.magicDamage": "Deal magic (potion) damage",
+  "gamerule.selfDamage": "Player can attack themself",
+  "gamerule.playerDamageScale": "Scales damage given to the player (in percentages)"
 }

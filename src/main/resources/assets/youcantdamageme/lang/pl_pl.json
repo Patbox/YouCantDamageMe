@@ -1,0 +1,7 @@
+{
+  "gamerule.playerDamage": "Gracz może otrzymywać obrażenia",
+  "gamerule.entityAttackDamage": "Moby mogą zadać obrażenia graczowi",
+  "gamerule.magicDamage": "Obrażenia od magii (mikstur)",
+  "gamerule.selfDamage": "Gracz może atakować siebie",
+  "gamerule.playerDamageScale": "Skaluje obrażenia nadane graczowi (w procentach)"
+}
