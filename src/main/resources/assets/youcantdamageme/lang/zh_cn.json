@@ -1,0 +1,7 @@
+{
+  "gamerule.playerDamage": "玩家可以受到伤害",
+  "gamerule.entityAttackDamage": "允许实体对玩家造成伤害",
+  "gamerule.magicDamage": "魔法伤害（药水）",
+  "gamerule.selfDamage": "玩家可以伤害自己（例如弓）",
+  "gamerule.playerDamageScale": "玩家所受伤害百分比（默认100）"
+}
