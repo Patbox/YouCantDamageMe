@@ -1,0 +1,7 @@
+{
+  "gamerule.playerDamage": "Получение урона игроком",
+  "gamerule.entityAttackDamage": "Получение урона от сущностей",
+  "gamerule.magicDamage": "Получение урона магией (зельями)",
+  "gamerule.selfDamage": "Получение урона от самого себя",
+  "gamerule.playerDamageScale": "Увеличение получаемого урона (в процентах)"
+}
